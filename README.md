@@ -11,6 +11,7 @@ Tematem projektu jest symulacja agentowa.. pustyni z rybami, które żyją poza
 - ./gradlew -q --console plain run
 Testowane tylko na Linuxie.
 ## Struktura projektu
+```
 src/main/java
 ├── Board.java
 ├── entities
@@ -42,3 +43,4 @@ src/main/java
 │   ├── Pathfinder.java
 │   └── PfState.java
 └── Position.java
+```
